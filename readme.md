@@ -8,7 +8,7 @@ Acredito que o que pode chamar atenção para este projeto é a barra de tempo o
 
 Por fim, gostaria de salientar que mais para frente gostaria de aplicar uma nova mecânica mais interessante e mais desafiodora, se tiver algo em mente, por favor faça bifurcações no projeto ou entre em contato comigo, ficarei muito feliz em receber novas ideias para melhorar este projeto.
 
-**OBS:** A IDE para criação do projeto é o PlatformIO e são apenas aceitos números inteiros para as expressões. Exemplo, neste jogo a expressão `(1 * 5) / 7 = 0`.
+**OBS:** A IDE para criação do projeto é o PlatformIO e são apenas aceitos números inteiros para as expressões. Exemplo, neste jogo a expressão `(1 * 5) / 7 = 0`. Além disso os resultados são limitados até o valor 99, logo não haverá equações com resultado maior ou igual a 100.
 
 ## Circuito Eletrônico
 <img src="https://cdn.discordapp.com/attachments/1153711382336909332/1163203943237689404/image.png?ex=653eb917&is=652c4417&hm=aafb61461d30b2c1abee0a6c10e71c59c9cdcf73e34c3c1c1630b3395ad9d880&" />
